@@ -1,0 +1,44 @@
+/* add your CSS here */
+div {
+  border: thin solid rgb(210, 210, 210);
+  margin: 10px;
+  font-family: Georgia, serif;
+}
+
+.container {
+  width: 320px;
+  height: auto;
+  padding: 5px;
+  box-shadow: 10px 10px 0 rgba(210, 210, 210, .4)
+}
+
+.heading {
+  display: block;
+  padding-left: 10px;
+  font-weight: 900;
+}
+
+.image {
+  display: block;
+  width: 300px;
+  height: auto;
+  margin: 10px;
+}
+
+.insetBox {
+  width: 280px;
+  padding: 10px;
+}
+
+.interest {
+  font-style: italic;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.factlabel {
+  font-weight: bold;
+}
